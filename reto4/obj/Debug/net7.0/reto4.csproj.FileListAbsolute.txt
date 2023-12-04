@@ -1,0 +1,14 @@
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\bin\Debug\net7.0\reto4.exe
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\bin\Debug\net7.0\reto4.deps.json
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\bin\Debug\net7.0\reto4.runtimeconfig.json
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\bin\Debug\net7.0\reto4.dll
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\bin\Debug\net7.0\reto4.pdb
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\reto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\reto4.AssemblyInfoInputs.cache
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\reto4.AssemblyInfo.cs
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\reto4.csproj.CoreCompileInputs.cache
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\reto4.dll
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\refint\reto4.dll
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\reto4.pdb
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\reto4.genruntimeconfig.cache
+C:\Users\APT01-60\Documents\Prueba_tecnica\reto4\obj\Debug\net7.0\ref\reto4.dll
