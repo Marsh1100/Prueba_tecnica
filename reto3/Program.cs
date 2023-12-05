@@ -1,7 +1,8 @@
 ﻿
 //Numeros amistosos
-using System.Diagnostics.CodeAnalysis;
+Console.ForegroundColor=ConsoleColor.Magenta; 
 Console.WriteLine("Números amistosos entre 1000 y 1500:");
+Console.ResetColor();
 
 for(var i = 1000; i<1500; i++)
 {
