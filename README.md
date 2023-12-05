@@ -5,7 +5,7 @@
 ésimo número de Fibonacci.
 2. Escriba un programa que reciba como entrada un número entero e indique si es o no un número
 de Fibonacci.
-3.Escriba un programa que muestres los m primeros números de Fibonacci, donde m es un número
+3. Escriba un programa que muestres los m primeros números de Fibonacci, donde m es un número
 ingresado por el usuario.
 
 <b>Reto 2: Multiplicación Rusa</b>
