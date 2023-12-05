@@ -8,7 +8,7 @@ de Fibonacci.
 3. Escriba un programa que muestres los m primeros números de Fibonacci, donde m es un número
 ingresado por el usuario.
 
-<b>Reto 2: Multiplicación Rusa</b>
+<b>Reto 2: Multiplicación Rusa</b> <br>
 El método de multiplicación rusa consiste en multiplicar sucesivamente por 2 el multiplicando y
 dividir por 2 el multiplicador hasta que el multiplicador tome el valor 1.
 Luego, se suman todos los multiplicandos correspondientes a los multiplicadores impares.
@@ -18,7 +18,7 @@ multiplicar 37 por 12, cuyo resultado final es 12 + 48 + 384 = 444.
 Desarrolle un programa que reciba como entrada el multiplicador y el multiplicando, y entregue
 como resultado el producto de ambos, calculado mediante el método de multiplicación rusa.
 
-<b>Reto 3: Números amistosos</b>
+<b>Reto 3: Números amistosos</b> <br>
 Un par de números m y n son llamados amistosos (o se conocen como un par amigable), si la suma
 de todos los divisores de m (excluyendo a m) es igual al número n, y la suma de todos los divisores
 del número n (excluyendo a n) es igual a m (con m ≠ n).
@@ -32,7 +32,7 @@ Muchos pares de números amigables son conocidos; sin embargo, sólo uno de los 
 tiene valores menores que 1000. El siguiente par está en el rango [1000, 1500].
 Desarrolle un programa que permita encontrar dicho par.
 
-<b>Votaciones de la CONFECH </b>
+<b>Votaciones de la CONFECH </b> <br>
 La CONFECH, en su afán de agilizar el proceso de recuento de las votaciones, le ha encargado el
 desarrollo de un programa de registro de votación por universidades.
 Primero, el programa debe solicitar al usuario ingresar la cantidad de universidades que participan
@@ -44,7 +44,7 @@ universidad, con el formato que se muestra en el ejemplo.
 Finalmente, el programa debe mostrar el resultado de la votación, indicando la cantidad de
 universidades que aceptan, que rechazan y en las que hubo empate entre estas dos opciones.
 
-<b>Reto 5: Question Description</b>
+<b>Reto 5: Question Description</b> <br>
 1. Sam and Kelly are programming buddies. Kelly resolves to practice more as Sam isa head initially.
 They each solve a number of problems daily. Find the mínimum number or days for Kelly to have
 solved more problems than Sam. If Kelly cannot surpass retum -1.
